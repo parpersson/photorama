@@ -1,15 +1,15 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: Pär Englund
+email: "hej@parenglund.se"
+description: "Produktionsbyrån Pär Englund"
+url: "https://parpersson.github.io"
+baseurl: "/portfolio"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "par_englund"
 github_username:  ""
 deviantart_username: ""
-flickr_username: ""
+flickr_username: "parenglund"
 discus_shortname: ""
 share: true
 

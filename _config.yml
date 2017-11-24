@@ -1,4 +1,4 @@
-# Site settings
+s# Site settings
 title: Pär Englund
 email: "hej@parenglund.se"
 description: "Produktionsbyrån Pär Englund"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://parpersson.github.io/portfolio/gallery/"  
+  - JOURNAL: "https://parpersson.github.io/portfolio/journal/"
+  - ABOUT: "https://parpersson.github.io/portfolio/about/"
 
 # All translation keys
 translations:
